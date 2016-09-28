@@ -1,0 +1,7 @@
+#Wed Sep 28 00:07:38 BST 2016
+base.0=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a6c8fea5706ec4b2d77a392610ba54eb56b600de
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_219cc459025242efa0f5d0bc284bf41444d720c2/classes.dex
+base.1=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_219cc459025242efa0f5d0bc284bf41444d720c2
+file.0=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a6c8fea5706ec4b2d77a392610ba54eb56b600de/classes.dex

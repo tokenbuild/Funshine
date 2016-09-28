@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/cloudy_mini.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/src/main/res/drawable-xxxhdpi/cloudy_mini.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/sunny.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/src/main/res/drawable-xxxhdpi/sunny.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/thunder_lightning.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/src/main/res/drawable-xxxhdpi/thunder_lightning.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/funshine_logo.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/src/main/res/drawable-xxxhdpi/funshine_logo.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/more_btn.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/src/main/res/drawable-xxxhdpi/more_btn.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/rainy.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/src/main/res/drawable-xxxhdpi/rainy.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/snow.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/src/main/res/drawable-xxxhdpi/snow.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/rainy_mini.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/src/main/res/drawable-xxxhdpi/rainy_mini.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/partially_cloudy.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/src/main/res/drawable-xxxhdpi/partially_cloudy.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/partially_cloudy_mini.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/src/main/res/drawable-xxxhdpi/partially_cloudy_mini.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/thunder_lightning_mini.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/src/main/res/drawable-xxxhdpi/thunder_lightning_mini.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/sunny_mini.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/src/main/res/drawable-xxxhdpi/sunny_mini.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/cloudy.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/src/main/res/drawable-xxxhdpi/cloudy.png"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/snow_mini.png",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Weather App/Funshine-Source/app/src/main/res/drawable-xxxhdpi/snow_mini.png"
+    }
+]
